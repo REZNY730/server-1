@@ -3,7 +3,6 @@
 namespace Src;
 
 use Error;
-
 class Route
 {
     private static array $routes = [];
@@ -29,6 +28,7 @@ class Route
         if (!array_key_exists($path, self::$routes)) {
             throw new Error('This path does not exist');
         }
+
         $class = self::$routes[$path][0];
         $action = self::$routes[$path][1];
 

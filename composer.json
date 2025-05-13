@@ -1,12 +1,12 @@
 {
-    "name": "gr426_reepe/zannzun-m6",
+    "name": "gr426_atvni/adhexca-m6",
     "description": "Simple mvc framework",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "gr426_reepe",
-            "email": "repel.egor@gmail.com"
+            "name": "VovchikMusulman",
+            "email": "slavaatam83@gmail.com"
         }
     ],
     "minimum-stability": "dev",
