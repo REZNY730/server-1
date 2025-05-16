@@ -1,1 +1,4 @@
 [Wed May 14 18:44:53.799188 2025] [core:alert] [pid 2250022] [client 10.30.8.21:33584] /srv/users/thjznxgk/zannzun-m6/.htaccess: Expected </<<<<<<> but saw </IfModule>
+[Thu May 15 20:01:26.158626 2025] [php:notice] [pid 1591527] [client 10.30.8.21:47778] Trying to route: GET /go, referer: http://zannzun-m6.wsr.ru/signup
+[Thu May 15 20:01:26.599269 2025] [php:notice] [pid 1591527] [client 10.30.8.21:47778] Trying to route: GET /go, referer: http://zannzun-m6.wsr.ru/signup
+[Thu May 15 20:01:26.771516 2025] [php:notice] [pid 1591527] [client 10.30.8.21:47778] Trying to route: GET /go, referer: http://zannzun-m6.wsr.ru/signup
