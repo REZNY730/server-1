@@ -1,20 +1,19 @@
 {
-    "name": "gr426_atvni/adhexca-m6",
+    "name": "gr426_reepe/zannzun-m6",
     "description": "Simple mvc framework",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "VovchikMusulman",
-            "email": "slavaatam83@gmail.com"
+            "name": "REZNY730",
+            "email": "repel.egor@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.4 | ^8.0",
-        "illuminate/database": "10.x-dev",
-        "illuminate/events": "10.x-dev",
-        "nikic/fast-route": "2.0.x-dev"
+        "vendor/package": "1.3.2",
+        "vendor/package2": "1.*",
+        "vendor/package3": "^2.0.3"
     },
     "autoload": {
         "psr-4": {
